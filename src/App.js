@@ -1,12 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom";
-
-const user = "thomas"
+import "./App.css";
 
 function App() {
   return (
     <div>
-      <h1>HOME</h1>
+      <h1 class="text-center">
+        Home Page
+      </h1>
     </div>
   );
 }
