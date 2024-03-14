@@ -1,6 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
+const user = "thomas"
+
 function App() {
   return (
     <div>
