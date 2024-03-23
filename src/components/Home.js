@@ -2,8 +2,8 @@ import React from "react"
 
 function Home(){
     return (
-        <div>
-            <h1 className="text-center">Home!</h1>
+        <div style={{display: 'none' }} >
+            <h1 className="text-center font-bold">Home!</h1>
         </div>
     )
 }
